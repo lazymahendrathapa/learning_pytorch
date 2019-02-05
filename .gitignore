@@ -1,6 +1,6 @@
-tutorials/data/*
-tutorials/model/*
-tutorials/.ipynb_checkpoints/*
-tutorials/processed/*
-tutorials/raw/*
+pytorch_tutorials/data/*
+pytorch_tutorials/model/*
+pytorch_tutorials/.ipynb_checkpoints/*
+pytorch_tutorials/processed/*
+pytorch_tutorials/raw/*
 
