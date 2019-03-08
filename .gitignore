@@ -3,4 +3,5 @@ pytorch_tutorials/model/*
 pytorch_tutorials/.ipynb_checkpoints/*
 pytorch_tutorials/processed/*
 pytorch_tutorials/raw/*
+data/*
 
