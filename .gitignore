@@ -1,3 +1,5 @@
+.venv/*
+
 pytorch_tutorials/data/*
 pytorch_tutorials/model/*
 pytorch_tutorials/.ipynb_checkpoints/*
